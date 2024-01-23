@@ -5,7 +5,8 @@
 }
 
 header{
-  width: 14%;
+  text-align: end;
+  width: 100%;
   position: fixed;
   right: 17px;
   padding: 10px;
