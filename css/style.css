@@ -5,7 +5,7 @@
 }
 
 header{
-  width: 12%;
+  width: 14%;
   position: fixed;
   right: 17px;
   padding: 10px;
@@ -21,6 +21,7 @@ header{
 }
 
 main{
+  padding-top: 70px;
   background-color: rgb(0, 0, 0);
   height: calc(100vh - 66px);
   overflow: auto;
