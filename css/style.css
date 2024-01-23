@@ -1,0 +1,49 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main{
+  background-color: rgb(0, 0, 0);
+  height: calc(100vh - 50px);
+  overflow: auto;
+}
+
+.mute{
+  padding: 5px;
+  background-color: rgba(128, 128, 128, 0.222);
+  position: absolute;
+  bottom: 4px;
+  left: 0;
+}
+
+.user{
+  margin: 5px;
+  position: relative;
+}
+
+.imgs{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+.flex-footer{
+  height: 50px;
+  align-items: center;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.flex-icon{
+  display: flex;
+  align-items: center;
+}
+.big{
+  font-size: 1.5rem;
+}
+
+.smal{
+  font-size: 0.5rem;
+}
