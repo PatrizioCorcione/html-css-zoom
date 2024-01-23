@@ -57,3 +57,7 @@ main{
   background-color: rgb(72, 72, 72);
   color: red;
 }
+
+span:hover{
+  color: rgb(0, 184, 0);
+}
